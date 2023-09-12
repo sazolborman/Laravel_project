@@ -1,0 +1,2 @@
+<a href="<?php echo e(route('payment.create', $payment_gateway->identifier)); ?>" class="btn btn-primary py-2 px-3"><?php echo e(get_phrase('Pay by Stripe')); ?></a>
+<?php /**PATH /home/creati65/demo.creativeitem.com/sociopro/resources/views/payment/stripe/index.blade.php ENDPATH**/ ?>
